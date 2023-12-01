@@ -1,7 +1,7 @@
 @font-face { 
 font-family:"pix5x5";
 
-src:url(/static/Pixel-5x5.ttf) format("truetype")
+src:url(./static/Pixel-5x5.ttf) format("truetype")
 }
 body {
     background-color:#000;
